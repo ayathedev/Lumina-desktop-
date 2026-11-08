@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Desktop",
+  "description": "A sleek, Chrome OS inspired desktop environment with a transparent dock and elegant animations.",
+  "requestFramePermissions": ["camera"]
+}
